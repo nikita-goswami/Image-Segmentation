@@ -1,6 +1,11 @@
 # Image-Segmentation
 Pixel-wise image segmentation 
 
+Trained weights can be found at the below location for reuse :
+
+https://drive.google.com/open?id=1I4KthF_BadZWvQOKz6SI9WDrwmBtNB-_
+
+
 Dataset:
 
 •In order to test the performance of the network, oxford IIIT pet dataset has been used 0 containing 37 categories of pet with 200 images per pet class
