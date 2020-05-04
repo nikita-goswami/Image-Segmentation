@@ -5,6 +5,8 @@ Trained weights can be found at the below location for reuse :
 
 https://drive.google.com/open?id=1I4KthF_BadZWvQOKz6SI9WDrwmBtNB-_
 
+Demo Video : https://www.youtube.com/playlist?list=PLPsKwvkwSjBgS7j66lh2uAjPJHcKaJgQc
+
 
 Dataset:
 
